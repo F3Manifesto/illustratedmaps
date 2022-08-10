@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1",
+        "name": "House 1",
+        "address": "123 Main St",
+        "type": "House",
+        "price": "$1,000,000",
+        "description": "This is a house",
+        "latitude": 64.32087157990325,
+        "longitude": -73.82812500000001
+    },
+    {
+        "id": "2",
+        "name": "House 2",
+        "address": "284 Second St",
+        "type": "House",
+        "price": "$500,000",
+        "description": "This is a house",
+        "latitude": 38.82259097617713,
+        "longitude": 64.68750000000001
+    },
+    {
+        "id": "3",
+        "name": "House 3",
+        "address": "456 Third St",
+        "type": "House",
+        "price": "$500,000",
+        "description": "This is a house",
+        "latitude": -38.82259097617711,
+        "longitude": 61.52343750000001
+    },
+    {
+        "id": "4",
+        "name": "Garage 1",
+        "address": "234 Main St",
+        "type": "Garage",
+        "price": "$500,000",
+        "description": "This is a garage",
+        "latitude": 23.885837699862005,
+        "longitude": 100.89843750000001
+    },
+    {
+        "id": "5",
+        "name": "Garage 2",
+        "address": "456 Second St",
+        "type": "Garage",
+        "price": "$500,000",
+        "description": "This is a garage",
+        "latitude": -57.51582286553883,
+        "longitude": -55.19531250000001
+    },
+    {
+        "id": "6",
+        "name": "Gym 1",
+        "address": "789 Main St",
+        "type": "Gym",
+        "price": "$50,000",
+        "description": "This is a gym",
+        "latitude": 24.5271348225978,
+        "longitude": -32.34375000000001
+    },
+    {
+        "id": "7",
+        "name": "Gym 2",
+        "address": "345 Second St",
+        "type": "Gym",
+        "price": "$50,000",
+        "description": "This is a gym",
+        "latitude": -53.95608553098789,
+        "longitude": 90.35156250000001
+    },
+    {
+        "id": "8",
+        "name": "Jail 1",
+        "address": "3409 Main St",
+        "type": "Jail",
+        "price": "$50,000",
+        "description": "This is a jail",
+        "latitude": 30.44867367928756,
+        "longitude": 44.6484375
+    },
+    {
+        "id": "9",
+        "name": "Store 1",
+        "address": "7455 Main St",
+        "type": "Store",
+        "price": "$50,000",
+        "description": "This is a store",
+        "latitude": 61.270232790000634,
+        "longitude": -15.820312500000002
+    },
+    {
+        "id": "10",
+        "name": "Store 2",
+        "address": "7455 Second St",
+        "type": "Store",
+        "price": "$50,000",
+        "description": "This is a store",
+        "latitude": 2.1088986592431382,
+        "longitude": 58.71093750000001
+    },
+    {
+        "id": "11",
+        "name": "Store 3",
+        "address": "7455 Third St",
+        "type": "Store",
+        "price": "$50,000",
+        "description": "This is a store",
+        "latitude": -61.270232790000634,
+        "longitude": -15.820312500000002
+    },
+    {
+        "id": "12",
+        "name": "Store 4",
+        "address": "7455 Fourth St",
+        "type": "Store",
+        "price": "$50,000",
+        "description": "This is a store",
+        "latitude": -23.56398712845123,
+        "longitude": 11.953125000000002
+    },
+    {
+        "id": "13",
+        "name": "Store 5",
+        "address": "7455 Fifth St",
+        "type": "Store",
+        "price": "$50,000",
+        "description": "This is a store",
+        "latitude": 4.214943141390651,
+        "longitude": -66.44531250000001
+    }
+]
